@@ -1,0 +1,20 @@
+
+.footer {
+  background-color: #d883cf;
+  color: #fff;
+  padding: 20px 0;
+  opacity: 0.9;
+}
+.footer .container {
+  background-color: transparent !important;
+}
+
+.footer a {
+   font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+.footer a:hover {
+  color: #e4a3de !important; 
+}
+
